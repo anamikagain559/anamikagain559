@@ -1,4 +1,5 @@
-![MasterHead](https://i.ibb.co/YyV1K4V/masterhead.png)
+![MasterHead](https://github.com/anamikagain559/anamikagain559/assets/121477762/dcfb4758-7199-4837-b362-92bb2f2fdfa8)
+
 <h1 align="center">Hi 👋, I'm Anamika Gain</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">

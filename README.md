@@ -1,6 +1,10 @@
 ![MasterHead](https://github.com/anamikagain559/anamikagain559/assets/121477762/dcfb4758-7199-4837-b362-92bb2f2fdfa8)
 
 <div align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=anamikagain559&theme=dracula" alt="github trophies" />
+</div>
+
+<div align="center">
   <h1>Hi 👋, I'm <a href="https://linkedin.com/in/anamika-anu" target="_blank">Anamika Gain</a></h1>
   <h3>Full Stack Web Developer | Software Engineer from Bangladesh 🇧🇩</h3>
   <br>
@@ -38,8 +42,7 @@ I am a passionate **Software Engineer** dedicated to building high-quality, scal
 
 ### 📊 Professional Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anamikagain559&show_icons=true&theme=dracula&hide_border=false&count_private=true" alt="Anamika's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anamikagain559&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anamikagain559&theme=dracula" alt="Anamika's Profile Summary" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anamikagain559&theme=dracula&hide_border=false" alt="GitHub Streak Stats" />
 </div>

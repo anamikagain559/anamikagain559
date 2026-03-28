@@ -1,8 +1,8 @@
 ![MasterHead](https://github.com/anamikagain559/anamikagain559/assets/121477762/dcfb4758-7199-4837-b362-92bb2f2fdfa8)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anamikagain559&theme=tokyonight&no-frame=true&margin-w=15" alt="github trophies" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anamikagain559&theme=tokyonight" alt="github trophies" />
+</p>
 
 <h1 align="center">Hi 👋, I'm <a href="https://linkedin.com/in/anamika-anu" target="_blank">Anamika Gain</a></h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh 🇧🇩</h3>
@@ -34,19 +34,19 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anamikagain559&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anamika's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anamikagain559&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anamikagain559&show_icons=true&theme=tokyonight" alt="Anamika's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anamikagain559&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anamikagain559&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anamikagain559&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 ---
 
 ### 📈 Activity Graph:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anamikagain559&theme=tokyonight&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anamikagain559&theme=tokyonight" width="100%" alt="Activity Graph" />
 </p>
 
 ---
